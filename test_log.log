@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1742657747974,1670,Выбор дня и фильма,200,OK,Thread Group 1-1,text,true,,81114,4754,1,1,http://localhost:8000/client/hall.php,90,0,39
+1742657747974,99,Выбор дня и фильма-0,200,OK,Thread Group 1-1,text,true,,5133,543,1,1,http://localhost:8000/client/hall.php,90,0,39
+1742657748189,28,Выбор дня и фильма-1,200,OK,Thread Group 1-1,text,true,,6360,604,1,1,http://localhost:8000/client/css/normalize.css,28,0,0
+1742657748191,55,Выбор дня и фильма-2,200,OK,Thread Group 1-1,text,true,,9117,601,1,1,http://localhost:8000/client/css/styles.css,55,0,18
+1742657748193,53,Выбор дня и фильма-3,200,OK,Thread Group 1-1,text,true,,3700,598,1,1,http://localhost:8000/client/js/index.js,53,0,17
+1742657748192,1452,Выбор дня и фильма-4,200,OK,Thread Group 1-1,text,true,,2016,614,1,1,"https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&subset=cyrillic,cyrillic-ext,latin-ext",1450,0,1347
+1742657748193,59,Выбор дня и фильма-5,200,OK,Thread Group 1-1,bin,true,,18263,598,1,1,http://localhost:8000/img/posters/80.png,57,0,18
+1742657748192,68,Выбор дня и фильма-6,200,OK,Thread Group 1-1,bin,true,,18263,598,1,1,http://localhost:8000/img/posters/82.png,68,0,22
+1742657748251,12,Выбор дня и фильма-7,200,OK,Thread Group 1-1,bin,true,,18262,598,1,1,http://localhost:8000/img/posters/81.png,12,0,0
+1742657750659,143,Бронь кресел,200,OK,Thread Group 1-1,text,true,,8577,5330,1,1,http://localhost:8000/client/payment.php,14,0,0
+1742657750659,14,Бронь кресел-0,200,OK,Thread Group 1-1,text,true,,5068,598,1,1,http://localhost:8000/client/payment.php,14,0,0
+1742657750688,13,Бронь кресел-1,304,Not Modified,Thread Group 1-1,,true,,249,691,1,1,http://localhost:8000/client/css/normalize.css,0,0,0
+1742657750692,9,Бронь кресел-2,304,Not Modified,Thread Group 1-1,,true,,249,688,1,1,http://localhost:8000/client/css/styles.css,0,0,0
+1742657750688,10,Бронь кресел-3,304,Not Modified,Thread Group 1-1,,true,,248,684,1,1,http://localhost:8000/client/js/index.js,0,0,0
+1742657750688,114,Бронь кресел-4,200,OK,Thread Group 1-1,text,true,,2016,614,1,1,"https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&subset=cyrillic,cyrillic-ext,latin-ext",102,0,0
+1742657750688,13,Бронь кресел-5,304,Not Modified,Thread Group 1-1,,true,,249,685,1,1,http://localhost:8000/img/posters/80.png,0,0,0
+1742657750691,11,Бронь кресел-6,304,Not Modified,Thread Group 1-1,,true,,249,685,1,1,http://localhost:8000/img/posters/82.png,0,0,0
+1742657750700,4,Бронь кресел-7,304,Not Modified,Thread Group 1-1,,true,,249,685,1,1,http://localhost:8000/img/posters/81.png,0,0,0
+1742657751816,7,Получение qr кода,200,OK,Thread Group 1-1,text,true,,338,608,1,1,http://localhost:8000/client/scripts/sale_save.php,7,0,0
+1742657746818,1820,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,90029,10692,1,1,null,111,3186,39
